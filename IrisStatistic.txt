@@ -1,0 +1,25 @@
+ Variance of properties SepalLengthCm, SepalWidthCm, PetalLengthCm ve PetalWidthCm :
+
+SepalLengthCm: 0.681
+SepalWidthCm: 0.187
+PetalLengthCm: 3.092
+PetalWidthCm: 0.579
+
+
+Corelation of properties: 
+
+SepalLengthCm and PetalLenghthCm : 0.872
+SepalLengthCm and SepalWidthCm : -0.109
+SepalLengthCm and PetalWidthCm : 0.818
+SepalWidthCm and PetalLenghthCm : -0.421
+PetalLenghthCm and PetalWidthCm : 0.963
+SepalWidthCm and PetalWidthCm : -0.357
+
+
+ Mean of properties SepalLengthCm, SepalWidthCm, PetalLengthCm ve PetalWidthCm:
+5.843
+3.054
+3.759
+1.199
+
+Covariance Matrix:
